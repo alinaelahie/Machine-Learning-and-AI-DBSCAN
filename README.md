@@ -50,8 +50,7 @@ Clustering Evaluation:
 
 The clustering results were visualized in 2D space using scatter plots. The points were color-coded according to the assigned cluster labels to facilitate comparison.
 The plot function plot_clusters() was used to visualize the clusters with distinct colors for each label, which helps in understanding how well each algorithm clusters the data.
-Parameter Tuning:
 
-
-Example Visualizations:<img width="638" alt="Screenshot 2025-03-07 at 4 04 22 PM" src="https://github.com/user-attachments/assets/454765d3-9a0b-48a0-9699-8cc83ffdb440" />
+Example Visualizations:
+<img width="638" alt="Screenshot 2025-03-07 at 4 04 22 PM" src="https://github.com/user-attachments/assets/454765d3-9a0b-48a0-9699-8cc83ffdb440" />
 
